@@ -1,0 +1,11 @@
+form{
+    background-color: white;
+    color: black;
+    width: 25em;
+    border: 5px solid black;
+}
+button{
+    background-color: lightblue;
+    color: white;
+    width: 10em;
+}
